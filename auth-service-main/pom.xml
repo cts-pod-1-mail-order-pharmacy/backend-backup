@@ -121,6 +121,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>authentication-service</finalName>
 	</build>
 
 </project>
